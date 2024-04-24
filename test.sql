@@ -1,1 +1,1 @@
-select * from iam;
+select * from iam where id = 1;
